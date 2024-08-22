@@ -9,4 +9,4 @@ Site Reliability Engineering (SRE): Implementing best practices to ensure system
 and contribute to open-source initiatives.
 
 📫 Let's connect! [kraviraj407@gmail.com] | [https://www.linkedin.com/in/raviraj-kumar-singh-291866148/]
-Newsletter : https://ideamaster.beehiiv.com/ 
+Newsletter: https://ideamaster.beehiiv.com/ 
