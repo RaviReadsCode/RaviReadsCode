@@ -1,7 +1,3 @@
-🌟 Senior Software Engineer | Site Reliability Advocate
-
-🔧 With over 4+ years of experience in the tech industry, I've honed my skills in creating and maintaining robust, scalable infrastructure using DevOps principles. My expertise lies in:
-
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
   <li>I'm Raviraj, a Software Engineer having 4+ years of experience working in various domains like full stack, machine learning, backend and data engineering.</li>
