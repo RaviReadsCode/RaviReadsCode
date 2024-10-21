@@ -8,5 +8,5 @@ Site Reliability Engineering (SRE): Implementing best practices to ensure system
 🚀 Passionate about continuous improvement, automation, and embracing new technologies to drive innovation and efficiency. Always eager to collaborate on exciting projects 
 and contribute to open-source initiatives.
 
-📫 Let's connect! [kraviraj407@gmail.com] | [https://www.linkedin.com/in/raviraj-kumar-singh-291866148/]
+📫 Let's connect! [kraviraj407@gmail.com] | [[https://www.linkedin.com/in/raviraj-kumar-singh-291866148/](https://www.linkedin.com/in/ravirajks/)]
 Newsletter: https://ideamaster.beehiiv.com/ 
