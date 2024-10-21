@@ -1,12 +1,15 @@
-🌟 DevOps Engineer | Kubernetes Enthusiast | Site Reliability Advocate
+🌟 Senior Software Engineer | Site Reliability Advocate
 
 🔧 With over 4+ years of experience in the tech industry, I've honed my skills in creating and maintaining robust, scalable infrastructure using DevOps principles. My expertise lies in:
 
-DevOps: Streamlining development and operations processes to enhance productivity and ensure seamless deployment pipelines.
-Kubernetes & Containers: Designing and managing containerized applications, leveraging Kubernetes for orchestration, scalability, and efficiency.
-Site Reliability Engineering (SRE): Implementing best practices to ensure system reliability, performance, and uptime, while automating operations and enhancing monitoring.
-🚀 Passionate about continuous improvement, automation, and embracing new technologies to drive innovation and efficiency. Always eager to collaborate on exciting projects 
-and contribute to open-source initiatives.
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<ul>
+  <li>I'm Raviraj, a Software Engineer having 4+ years of experience working in various domains like full stack, machine learning, backend and data engineering.</li>
+  <li>Checkout my newsletter <a href = "https://ideamaster.beehiiv.com/"></a> on various topics ranging from science to literature to civilization to future</li>
+  <li>Follow me on <a href="www.linkedin.com/in/ravirajks">LinkedIn</a> to stay updated.</li>
+</ul>
 
-📫 Let's connect! [kraviraj407@gmail.com] | [[https://www.linkedin.com/in/raviraj-kumar-singh-291866148/](https://www.linkedin.com/in/ravirajks/)]
-Newsletter: https://ideamaster.beehiiv.com/ 
+&nbsp;![](https://komarev.com/ghpvc/?username=RaviReadsCode&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaviReadsCode&show_icons=true&locale=en" alt="RaviReadsCode" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviReadsCode&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
