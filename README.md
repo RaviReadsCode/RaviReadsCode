@@ -167,29 +167,26 @@ An intelligent CLI that
 
 # 📊 GitHub Stats
 
-<p align="center">
+## 🌟 Featured Projects
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaviReadsCode&show_icons=true&theme=tokyonight"/>
+### 🤖 PulseAI
+> AI-powered platform focused on intelligent automation and modern AI workflows.
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RaviReadsCode&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviReadsCode&layout=compact&theme=tokyonight"/>
-
-</p>
+🔗 https://github.com/RaviReadsCode/PulseAI
 
 ---
 
-# 📈 Contribution Graph
+### 📄 InvoiceFlow
+> Enterprise invoice management system built using Java, Spring Boot, Docker, PostgreSQL, and Kubernetes.
 
-<p align="center">
+🔗 https://github.com/RaviReadsCode/invoiceflow
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviReadsCode&theme=tokyo-night"/>
+---
 
-</p>
+### 🔐 Certificate Expiry Reminder
+> Automated Groovy utility that detects SSL certificate expiration and notifies teams before production issues occur.
+
+🔗 https://github.com/RaviReadsCode/certificate_expiry_reminder
 
 ---
 
@@ -222,20 +219,27 @@ I write about
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/ravirajks">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kraviraj407@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RaviReadsCode">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://ideamaster.beehiiv.com/">
-<img src="https://img.shields.io/badge/Newsletter-IdeaMaster-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IdeaMaster-Newsletter-orange?style=for-the-badge"/>
 </a>
 
 </p>
-
 ---
 
 # 💡 Quote
