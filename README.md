@@ -2,7 +2,7 @@
 
 ### Backend & Platform Engineer | Java | Distributed Systems | Kubernetes | AI Engineering
 
-I'm a Software Engineer with 5+ years of experience building backend services, cloud-native applications, and automating production infrastructure.
+I'm a Software Engineer with 6+ years of experience building backend services, cloud-native applications, and automating production infrastructure.
 
 My primary focus is Java backend engineering, distributed systems, Site Reliability Engineering, and cloud platforms. I'm also exploring LLM applications, RAG pipelines, and agentic AI systems.
 
